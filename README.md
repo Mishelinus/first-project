@@ -41,6 +41,6 @@
 Например, вы находитесь в папке dev. Начните вводить cd first и дважды нажмите Tab. Если папка first-project есть внутри dev, командная строка автоматически подставит её имя. Останется только нажать Enter.
 
 
-#[Шпаргалка по консольным командам Git](https://github.com/Mishelinus/Git-commands "Перейти")#
+# [Шпаргалка по консольным командам Git](https://github.com/Mishelinus/Git-commands "Перейти") #
 
-#[Шпаргалка по Markdown](https://github.com/Mishelinus/Markdown-Cheatsheet "тыц")# 
+# [Шпаргалка по Markdown](https://github.com/Mishelinus/Markdown-Cheatsheet "тыц") # 
